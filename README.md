@@ -1,1 +1,132 @@
-# Menschen.-Solidarische-Gesundheit-msg
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Menschen. Solidarische Gesundheit (MSG)</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      background-color: #f8f9fa;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background-color: #4caf50;
+      color: white;
+      padding: 1.5rem;
+      text-align: center;
+    }
+    header img {
+      max-height: 80px;
+      margin-bottom: 1rem;
+    }
+    main {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+      background-color: white;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+    }
+    h1, h2 {
+      color: #2e7d32;
+    }
+    h1 {
+      text-align: center;
+      margin-top: 2rem;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="A_logo_for_an_Austrian_political_organization_name.png" alt="MSG Logo" />
+    <h1>Menschen. Solidarische Gesundheit (MSG)</h1>
+    <p>Parteisatzung</p>
+  </header>
+  <main>
+    <section>
+      <h2>Präambel</h2>
+      <p>Die Partei „Menschen. Solidarische Gesundheit“ (MSG) wurde gegründet, um den dringenden Herausforderungen im österreichischen Gesundheitswesen mit Verantwortung, Empathie und Transparenz zu begegnen. Unser Ziel ist ein solidarisches Gesundheitssystem, das alle Menschen erreicht – unabhängig von Einkommen, Herkunft oder Wohnort. Wir stehen für soziale Gerechtigkeit, politische Bescheidenheit und echte Beteiligung.</p>
+    </section>
+    <section>
+      <h2>§1 Name, Sitz und Tätigkeitsbereich</h2>
+      <ul>
+        <li>Name der Partei: Menschen. Solidarische Gesundheit (MSG)</li>
+        <li>Sitz der Partei: Wien</li>
+        <li>Tätigkeitsbereich: Österreichweit</li>
+      </ul>
+    </section>
+    <section>
+      <h2>§2 Ziele und Grundsätze</h2>
+      <ul>
+        <li>Solidarisches, öffentliches Gesundheitswesen ausbauen und schützen</li>
+        <li>Pflege- und Gesundheitsberufe stärken</li>
+        <li>Nachhaltige Gesundheitsförderung & Prävention</li>
+        <li>Abbau gesundheitlicher Ungleichheiten</li>
+        <li>Health in All Policies integrieren</li>
+        <li>Bekämpfung von Armut und deren Folgen</li>
+        <li>Politische Bezüge senken, Spendenanteil einführen</li>
+        <li>Transparente, bürgernahe Politik fördern</li>
+      </ul>
+    </section>
+    <section>
+      <h2>§3 Mitgliedschaft</h2>
+      <ul>
+        <li>Offen für alle ab 16 Jahren</li>
+        <li>Schriftlicher Beitritt, Entscheidung durch Bundesvorstand</li>
+        <li>Ende durch Austritt, Ausschluss oder Tod</li>
+      </ul>
+    </section>
+    <section>
+      <h2>§4 Rechte & Pflichten</h2>
+      <ul>
+        <li>Antrags-, Wahl- und Rederecht</li>
+        <li>Verpflichtung zur Einhaltung der Satzung</li>
+      </ul>
+    </section>
+    <section>
+      <h2>§5 Parteiorgane</h2>
+      <ul>
+        <li>Bundesparteitag</li>
+        <li>Bundesvorstand</li>
+        <li>Landesorganisationen</li>
+        <li>Kontrollkommission</li>
+      </ul>
+    </section>
+    <section>
+      <h2>§5a Ehrenkodex</h2>
+      <ul>
+        <li>Freiwilliger Gehaltsverzicht durch Funktionär:innen</li>
+        <li>Verwendung der Mittel für Gesundheitsprojekte</li>
+        <li>Einsatz für gesetzliche Reduktion von Politiker:innengehältern</li>
+        <li>Politik im Dienst der Allgemeinheit</li>
+      </ul>
+    </section>
+    <section>
+      <h2>§6 Finanzierung</h2>
+      <ul>
+        <li>Mitgliedsbeiträge, Spenden, Förderungen</li>
+        <li>Veranstaltungen, Publikationen</li>
+        <li>Rückflüsse aus Funktionärsbezügen</li>
+      </ul>
+    </section>
+    <section>
+      <h2>§7 Auflösung der Partei</h2>
+      <p>Im Falle einer Auflösung der Partei wird ihr Vermögen einer gemeinnützigen Organisation im Bereich Gesundheitsförderung übergeben. Die Entscheidung darüber trifft der Bundesparteitag mit 2/3-Mehrheit.</p>
+    </section>
+    <section>
+      <h2>§8 Inkrafttreten</h2>
+      <p>Diese Satzung wurde am [Datum] durch den Gründungsparteitag beschlossen und tritt mit sofortiger Wirkung in Kraft.</p>
+    </section>
+  </main>
+</body>
+</html>
